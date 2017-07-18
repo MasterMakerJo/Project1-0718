@@ -1,0 +1,16 @@
+﻿  RecommendCards.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(803): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+          \\mac\home\desktop\league-of-players\project1\recommendcards.cpp(736) : 忽略“i”的定义
+          \\mac\home\desktop\league-of-players\project1\recommendcards.cpp(481) : 使用“i”的定义
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(897): warning C4101: “j”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(1434): warning C4101: “dan”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(1706): warning C4101: “iTemp”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(1706): warning C4101: “k”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(1706): warning C4101: “j”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(1827): warning C4101: “iTmpCards”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(1828): warning C4101: “iTypeCount”: 未引用的局部变量
+  Project1.vcxproj -> \\Mac\Home\Desktop\League-Of-Players\Debug\LeagueOfPlayers.exe
